@@ -26,7 +26,5 @@
     <p>Watch a video demonstration of testing the application <a href="https://drive.google.com/drive/folders/1fobgW-p6Q-dnJ5hmet0gpG6sqgzjsySJ">here</a>.</p>
     <h2>Contributing</h2>
     <p>Contributions are welcome! Please open an issue or pull request on GitHub.</p>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <code>LICENSE</code> file for details.</p>
 </body>
 </html>
